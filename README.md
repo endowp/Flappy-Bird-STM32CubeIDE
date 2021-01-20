@@ -1,9 +1,9 @@
 ## Embedded System Lab project 2020
-A Flappy Bird game implemented on STM32CubeIDE, built with C.
+A Flappy Bird game implemented on STM32CubeIDE
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### Requirement
+### Requirements
 - ST NUCLEO-F4 Nucleo Development Board
 - STM32CubeIDE
 - Tera Term
